@@ -1,0 +1,20 @@
+{
+    "name": "gebruiker/Opdracht6",
+    "require": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gebruiker\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yassine6262",
+            "email": "112876986+Yassine6262@users.noreply.github.com"
+        }
+    ]
+}
